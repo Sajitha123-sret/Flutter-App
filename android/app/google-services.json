@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144778969250",
+    "firebase_url": "https://healthcare-843dd.firebaseio.com",
+    "project_id": "healthcare-843dd",
+    "storage_bucket": "healthcare-843dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144778969250:android:c8c57e858ca7dc4cfe57fb",
+        "android_client_info": {
+          "package_name": "com.sajitha.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144778969250-6utbjorejf4teuc3t97asg78jhnf8qqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYvg3j3iw4fVxzHzvBtSB866kEidJmyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144778969250-6utbjorejf4teuc3t97asg78jhnf8qqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
